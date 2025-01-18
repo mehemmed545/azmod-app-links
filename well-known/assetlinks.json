@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.azmod.inc",
+      "sha256_cert_fingerprints": [
+        "8E:67:CB:E0:82:44:26:4E:D3:3B:72:C6:04:AA:C0:E6:2A:EF:D0:3A:CD:20:DC:26:F9:4E:15:A9:09:5D:B2:74"
+      ]
+    }
+  }
+]
